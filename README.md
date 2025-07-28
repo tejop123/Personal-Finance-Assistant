@@ -33,8 +33,8 @@ https://personal-finance-assistant-psi.vercel.app/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-repo-name/personal-finance-app.git
-   cd personal-finance-app
+   git clone https://github.com/your-repo-name/personal-finance-assistant
+   cd personal-finance-assistant
    ```
 
 2. **Install Dependencies:**
