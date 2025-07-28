@@ -1,6 +1,8 @@
 # Personal Finance Assistance Web App
 
 This project is a **Personal Finance Assistance Web App** designed to help users track expenses, manage budgets, and gain insights into their financial habits. Built with **React (TypeScript)**, **Supabase** as the backend, and styled using **TailwindCSS**, the app includes user authentication, expense tracking, and financial analytics.
+# Live Demo
+https://personal-finance-assistant-psi.vercel.app/
 
 ## Features
 
